@@ -1,10 +1,6 @@
-# Hello DES INV 202 Student!
-Welcome to your new GitHub repository! 
 
 # Outline
 [week 1](README.md#week-1-example-report-1)
-
-week 2, etc...
 
 ---
 
@@ -12,9 +8,10 @@ week 2, etc...
 # Week 1: Getting Started with Studio #
 ## Week of 08/29/2024
 
-During my first week at Jacobs, I get familiar with the different machines and tools in the studio. I passed the GSW module and participated in the Form3 Resin Printer workshop. Apart from that I also completed my first laser-cutting project - I downloaded a SVG source file of a simple weaving toolkit from [here](https://www.instructables.com/Laser-Cut-Mini-Frame-Loom-Weaving/). Then I printed it out using the laser-cutting machine with 3mm Plywood. I think this is just a starting point of the studio making and I look forward to exploring other machines and materials in the next few weeks (especially as I start to learn Rhino & Grasshopper)! 
+During my first week at Jacobs, I get familiar with the different machines and tools in the studio. I passed the GSW module and participated in the Form3 Resin Printer workshop. Apart from that I also completed my first laser-cutting project - I downloaded a SVG source file of a simple weaving toolkit from [here](https://www.instructables.com/Laser-Cut-Mini-Frame-Loom-Weaving/). Then I printed it out using the laser-cutting machine with 3mm Plywood.<br/>I think this is just a starting point of the studio making and I look forward to exploring other machines and materials in the next few weeks (especially as I start to learn Rhino & Grasshopper)! 
 
-<img width="200" alt="Cool Phone Stand made of rocks" src="assets/exampleimg.png">
+<img width="400" alt="Cool Phone Stand made of rocks" src="assets/laser1.jpg">
+<img width="400" alt="Cool Phone Stand made of rocks" src="assets/laser2.jpg">
 
 ---
 
