@@ -1,9 +1,23 @@
 
 # Outline
 [week 1](README.md#week-1-example-report-1)
-
 ---
+# Week 2: Computational Design - Phone Stand #
+## Week of 09/12/2024
+This week I started with using Rhino and Grasshopper for computational design project. I learned some tutorials to know the basic interface & command in Rhino and Grasshopper. Based on that I also tried a few things on the example file of the cellphone stand. 
+Here's the diagram I draw for the program. Since the program is very complicated for me to understand, reading through the notes of each modules and visaulizing their connections help me better understand how this system works.<br/><br/>
+<img width="600" src="assets/w2-1.png"><br/><br/>
+<img width="600" src="assets/w2-2.png"><br/><br/>
+<img width="600" src="assets/w2-3.png">
 
+I also changed many parameters inside the control panel of grasshopper and bake different forms of phone stand. I think this process helps me better understand the advantages of computational design - we can easily generate many variations frm the same piece of code. <br/><br/>
+<img width="600" src="assets/w2-4.png">
+
+Apart from that I followed some tutorials on youtube to create some basic boxes and perform boolean operation in grasshopper. Here's my progess on that.<br/><br/>
+<img width="600" src="assets/w2-4.png">
+
+I also tried to replace the nested spheres with other geometric shapes, but I encounter some problems - I figured out which part I should modify and the output do change. However it always indicates that the assembly is not good :( <br/><br/>
+<img width="600" src="assets/w2-5.png">
 
 # Week 1: Getting Started with Studio #
 ## Week of 08/29/2024
