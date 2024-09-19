@@ -1,8 +1,22 @@
 
 # Outline
 [week 1](#week-1-getting-started-with-studio)<br/><br/>
-[week 2](#week-2-computational-design-phone-stand)
+[week 2](#week-2-computational-design-phone-stand)<br/><br/>
+[week 3](#week-3-computational-design-project-one)
 ---
+# Week 3 Computational Design Project One #
+## Week of 09/19/2024
+### Reflection
+This week, my focus was primarily on my computational design project. I designed and 3D-printed a customizable jewelry box integrated with an AirPods holder. The process taught me valuable skills in integrating multiple functionalities into a single product. Specifically, I learned about the importance of ensuring precision in the design phase to guarantee that both the jewelry and AirPods fit perfectly into the compartments.<br/><br/> The learning process involved iterating through several design versions in CAD software to achieve the ideal dimensions and aesthetic. The current state of the project is promising, with a fully functioning prototype that demonstrates the customization aspect and the seamless integration of the AirPods holder.<br/><br/>
+### Speculation
+Moving forward, I aim to enhance the customization options of the jewelry box by adding features like adjustable compartments or different material finishes to appeal to a broader audience. I’m also considering embedding a small wireless charging pad for AirPods within the holder. This would push the boundaries of practicality and tech integration. From an industry perspective, customizable and multifunctional items are gaining popularity. I recently came across an article discussing modular and customizable designs in 3D-printed products.<br/><br/>
+
+<img width="600" src="assets/w3_1.jpg"><br/><br/>
+<img width="600" src="assets/w3_2.png"><br/><br/>
+
+
+
+
 # Week 2 Computational Design Phone Stand #
 ## Week of 09/12/2024
 This week I started with using Rhino and Grasshopper for computational design project. I learned some tutorials to know the basic interface & command in Rhino and Grasshopper. Based on that I also tried a few things on the example file of the cellphone stand. 
