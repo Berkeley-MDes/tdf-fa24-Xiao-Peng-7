@@ -2,8 +2,17 @@
 # Outline
 [week 1](#week-1-getting-started-with-studio)<br/><br/>
 [week 2](#week-2-computational-design-phone-stand)<br/><br/>
-[week 3](#week-3-computational-design-project-one)
+[week 3](#week-3-computational-design-project-one)<br/><br/>
+[week 4](#week-4-digital-ecosystem-map)
 ---
+# Week 4 Digital Ecosystem Map #
+## Week of 09/26/2024
+This week I started with creating a digital ecosystem map of Amazon Go - a smart retailing experience integrated with IoT.
+The Amazon Go smart retail ecosystem integrates sensors (like cameras, weight sensors, and RFID), software (including computer vision algorithms, inventory management, and a mobile app), and connectivity (IoT network, Wi-Fi, and cloud computing) to create a seamless shopping experience. As customers enter the store, sensors track their actions, update a virtual shopping cart, and automatically charge their account upon exit. This data flows through real-time processing, enabling inventory management, customer behavior analysis, and continuous system optimization, creating an automated and personalized retail environment.<br/><br/>
+<img width="1000" src="assets/amazon_go_system.png"><br/><br/>
+
+
+
 # Week 3 Computational Design Project One #
 ## Week of 09/19/2024
 ### Reflection
