@@ -3,8 +3,24 @@
 [week 1](#week-1-getting-started-with-studio)<br/><br/>
 [week 2](#week-2-computational-design-phone-stand)<br/><br/>
 [week 3](#week-3-computational-design-project-one)<br/><br/>
-[week 4](#week-4-digital-ecosystem-map)
+[week 4](#week-4-digital-ecosystem-map)<br/><br/>
+[week 5](#week-5-particle-io)
 ---
+# Week 5 Particle IO#
+## Week of 10/03/2024
+This week I started to use the particle IO as micro-controller. In the first part I finished the setup and configuration of my particle board, and I successfully connect it to the Berkeley IoT network.<br/><br/>
+<img width="1000" src="assets/wifi.png"><br/><br/>
+
+For the second part I started to connect different circuits, use different sensors/input and output modules in the kit to run several example code. And I also changed the code and built my own circuit.<br/><br/>
+The first circuit is the in-class example of receiving input from switch to change the blinking frequencey of LED.<br/><br/>
+<img width="700" src="assets/switch.jpg"><br/><br/>
+The second circuit is to use the FSR sensor input to control the color change of RGB LED. I started with the example file, but it took me a while to figure out different pins and adjust sensor input. I use female-male wires for FSR sensor but in the future I would definitely solder it for stable connection.<br/><br/>
+<img width="700" src="assets/sfr.GIF"><br/><br/>
+For the third circuit, I used a potentiometer to control the angle of servo. I referenced two different example files and combined them together. I mapped the input value of potentiometer to write the angle from 0 to 180 in the servo. <br/><br/>
+<img width="700" src="assets/servo.GIF"><br/><br/>
+Apart from that I do encounter some problems with the file path and re-opening code in particle workbench. I'm trying to fix that problem this week :)
+
+
 # Week 4 Digital Ecosystem Map #
 ## Week of 09/26/2024
 This week I started with creating a digital ecosystem map of Amazon Go - a smart retailing experience integrated with IoT.
