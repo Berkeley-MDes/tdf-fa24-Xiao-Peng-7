@@ -4,8 +4,19 @@
 [week 2](#week-2-computational-design-phone-stand)<br/><br/>
 [week 3](#week-3-computational-design-project-one)<br/><br/>
 [week 4](#week-4-digital-ecosystem-map)<br/><br/>
-[week 5](#week-5-particle-io)
+[week 5](#week-5-particle-io)<br/><br/>
+[week 6](#week-6-stemmaqt-system)
 ---
+# Week 6 StemmaQT System#
+## Week of 10/10/2024
+This week I started to work with the stemmaQT module of photon2. Firstly I solder the extension board. Then I connected the stemmaQT board to my photon2 to run the example code. However, I cannot compile my code always get the same error message. Therefore I'm still working on that to fix the problem :( <br/><br/>
+<img width="600" src="assets/stemma.jpg"><br/><br/>
+<img width="600" src="assets/error.jpg"><br/><br/>
+
+Apart from the stemmaQT, we also get started with the project 2 and we designed the concept and wrote the proposal for project 2.<br/><br/>
+<img width="600" src="assets/proposal.jpg"><br/><br/>
+
+
 # Week 5 Particle IO#
 ## Week of 10/03/2024
 This week I started to use the particle IO as micro-controller. In the first part I finished the setup and configuration of my particle board, and I successfully connect it to the Berkeley IoT network.<br/><br/>
