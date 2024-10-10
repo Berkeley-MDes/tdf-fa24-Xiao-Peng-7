@@ -15,6 +15,9 @@ This week I started to work with the stemmaQT module of photon2. Firstly I solde
 
 Apart from the stemmaQT, we also get started with the project 2 and we designed the concept and wrote the proposal for project 2.<br/><br/>
 <img width="600" src="assets/proposal.jpg"><br/><br/>
+Update: after uninstalling & uninstalling my particle workbench + reconnecting my photon2 to Berkeley wifi + putting all my code into a folder without blank space, I finally compiled & flashed my code!!! I ran both the accelorameter sensor and the proximity one.<br/><br/>
+<img width="600" src="assets/accel.GIF"><br/><br/>
+<img width="600" src="assets/proximity.GIF"><br/><br/>
 
 
 # Week 5 Particle IO#
