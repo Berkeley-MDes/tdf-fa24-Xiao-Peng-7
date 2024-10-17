@@ -5,8 +5,16 @@
 [week 3](#week-3-computational-design-project-one)<br/><br/>
 [week 4](#week-4-digital-ecosystem-map)<br/><br/>
 [week 5](#week-5-particle-io)<br/><br/>
-[week 6](#week-6-stemmaqt-system)
+[week 6](#week-6-stemmaqt-system)<br/><br/>
+[week 7](#week-7-project-two-progress)
 ---
+
+# Week 7 Project Two Progress#
+## Week of 10/17/2024
+This week we started working on our project two. Firstly we revised our proposal - we added the communication between two devices using the cloud function and changed some of the sensor input. Then we worked on the connecting two photons together. We created our group in particle console with our two devices. At first the message cannot be received. We solved this problem by writing "ALL_DEVICES" command. Our initial idea is to use accelerometer sensor in one photon to control the light output in another photon. However we were told that the memory of this board doesn't support such frequent data exchange. So we changed it to a button, which only calls the "publish()" function when it is pressed. During the process we had many challenges with our devices going offline and we didn't find a great solution for that right now. Apart from the communication part, we also tried to light up the Neopixel ring but we could't compile the code in VS Code. We will try the solution posted in slack channel soon. <br/><br/>
+<img width="600" src="assets/progress1.jpg"><br/><br/>
+<img width="600" src="assets/progress2.jpg"><br/><br/>
+
 # Week 6 StemmaQT System#
 ## Week of 10/10/2024
 This week I started to work with the stemmaQT module of photon2. Firstly I solder the extension board. Then I connected the stemmaQT board to my photon2 to run the example code. However, I cannot compile my code always get the same error message. Therefore I'm still working on that to fix the problem :( <br/><br/>
