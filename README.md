@@ -7,8 +7,13 @@
 [week 5](#week-5-particle-io)<br/><br/>
 [week 6](#week-6-stemmaqt-system)<br/><br/>
 [week 7](#week-7-project-two-progress)<br/><br/>
-[week 8](#week-8-project-two)
+[week 8](#week-8-project-two)<br/><br/>
+[week 9](#week-9-zerowidth-ai)
 ---
+# Week 9 Zerowidth AI #
+## Week of 10/31/2024
+This week, we completed Project 2, making significant progress in both the hardware and software aspects. After finalizing the proposal revisions last week, we focused on connecting all the circuits and sensors. We successfully managed to link the two Photon boards, ensuring seamless communication between them. The accelerometer was swapped for a button to reduce the data load, and we refined the communication by using the "publish()" function, triggered when the button is pressed.
+
 # Week 8 Project Two #
 ## Week of 10/24/2024
 This week, we completed Project 2, making significant progress in both the hardware and software aspects. After finalizing the proposal revisions last week, we focused on connecting all the circuits and sensors. We successfully managed to link the two Photon boards, ensuring seamless communication between them. The accelerometer was swapped for a button to reduce the data load, and we refined the communication by using the "publish()" function, triggered when the button is pressed.
