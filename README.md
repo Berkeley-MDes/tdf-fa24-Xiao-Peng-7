@@ -8,11 +8,36 @@
 [week 6](#week-6-stemmaqt-system)<br/><br/>
 [week 7](#week-7-project-two-progress)<br/><br/>
 [week 8](#week-8-project-two)<br/><br/>
-[week 9](#week-9-zerowidth-ai)
+[week 9](#week-9-zerowidth-ai)<br/><br/>
+[week 10](#week-10-project-three-mini-me)<br/><br/>
 ---
+# Week 10 Project Three Mini Me #
+## Week of 11/07/2024
+Reflections
+
+This week, I incorporated my previous zero-width AI experiments into my Project 3, creating a chatbot that represents me. By combining all my insights from each experiment, I could integrate aspects like temperature adjustments, instruction design, and RAG into a cohesive agent. Additionally, I imported all my weekly reports into a GitHub repository, using them as training data to provide the chatbot with contextual knowledge of my work. This setup allowed me to see how structured reflections and incremental adjustments shape the agent's ability to represent my learning journey accurately.
+
+Speculations
+
+Moving forward, I anticipate exploring more nuanced ways for the chatbot to understand and respond to specific queries about my projects. By refining how content is chunked and applying selective variable adjustments, I hope to create a more interactive and responsive representation of my work. This approach could be especially valuable for future projects that involve sharing or presenting my work with a personalized touch.
+
+
+<img width="800" src="assets/p2_gpt.png"><br/><br/>
+<img width="800" src="assets/p3_gpt.png"><br/><br/>
+<img width="800" src="assets/diagram_gpt.png"><br/><br/>
+
 # Week 9 Zerowidth AI #
 ## Week of 10/31/2024
-This week, we completed Project 2, making significant progress in both the hardware and software aspects. After finalizing the proposal revisions last week, we focused on connecting all the circuits and sensors. We successfully managed to link the two Photon boards, ensuring seamless communication between them. The accelerometer was swapped for a button to reduce the data load, and we refined the communication by using the "publish()" function, triggered when the button is pressed.
+Reflections
+
+This week, I began learning zero-width AI and explored foundational concepts in Large Language Models (LLMs). Through tutorials, I gained an understanding of key attributes like temperature, instruction design, and RAG (retrieval-augmented generation), and how these influence an agent’s responses. Following the video tutorials, I set up and started experimenting with these settings to better understand their impact on agent behavior.
+
+Speculations
+
+Looking forward, I’m interested in how adjusting these parameters could support more personalized interactions within AI agents, particularly for applications that require specific contextual understanding. As I continue experimenting, I see potential for agents that adapt dynamically to user intent, which could be valuable for my coursework and future projects. I plan to keep refining my experiments and may incorporate feedback from other sources to better assess performance.
+
+<img width="800" src="assets/p1_gpt.png"><br/><br/>
+<img width="800" src="assets/diagram_gpt.png"><br/><br/>
 
 # Week 8 Project Two #
 ## Week of 10/24/2024
