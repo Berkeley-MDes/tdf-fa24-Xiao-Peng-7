@@ -10,7 +10,55 @@
 [week 8](#week-8-project-two)<br/><br/>
 [week 9](#week-9-zerowidth-ai)<br/><br/>
 [week 10](#week-10-project-three-mini-me)<br/><br/>
+[week 11](#week-11-final-project-preparation)<br/><br/>
+[week 12](#week-12-final-project)
 ---
+# Week 12 Final Project #
+## Week of 12/02/2024
+
+### Reflections  
+This week, I customized two AI agents with unique knowledge bases and prompts, enabling them to have distinct personalities. We successfully got the agents to converse with each other, but maintaining meaningful and natural flow remains challenging. Additionally, we integrated Photon to facilitate communication and displayed the conversations on an OLED screen, adding a physical and interactive element to the project.  
+
+### Speculations  
+Next steps involve refining the agents’ conversational flow by improving prompts and adding contextual memory, as well as expanding their knowledge bases for richer interactions. I also plan to optimize the OLED display for better clarity and usability, conduct user testing for feedback on engagement and functionality, and explore aesthetic and narrative enhancements to elevate the overall experience.  
+
+### Bonus  
+A relevant advancement is OpenAI’s custom GPTs, which use contextual memory to maintain conversation relevance and flow. This approach enables smoother transitions and more coherent responses, directly addressing the challenges in our project. Implementing similar techniques, such as short-term memory or topic tagging, could significantly improve our agents’ dialogue quality while enhancing user engagement.  
+
+
+<img width="800" src="assets/p2_gpt.png"><br/><br/>
+<img width="800" src="assets/p3_gpt.png"><br/><br/>
+
+# Week 11 Final Project Preparation #
+## Week of 11/14/2024
+### Reflections
+
+This week, I began working on my final project, which involves creating two AI agents with distinct personalities and backstories that can engage in dynamic conversations with each other. I focused on two main tasks:
+
+Designing the Project Proposal and Initial System Diagram:
+I outlined the concept, objectives, and deliverables of the project. This helped clarify the scope and direction, ensuring the project stays on track. Creating the system diagram allowed me to visualize how the components—such as data inputs, personality modules, and conversational flow—interact, laying a strong foundation for implementation.
+
+Starting Experiments with Zero-Width AI:
+I began exploring the 01-Triceratops challenge to understand the constraints and opportunities of working with zero-width AI systems. Through these experiments, I learned the importance of balancing simplicity and creativity in developing lightweight, efficient interactions between the agents. This process helped me identify potential technical challenges, such as maintaining coherence in the dialogue and integrating diverse data sources effectively. Currently, the project is in its early stages, but I feel confident in the direction and structure we have established. The initial progress has given me a better understanding of how to approach the technical and conceptual aspects of designing AI-driven personalities.
+
+### Speculations
+
+Moving forward, I plan to:
+
+Develop and Test Initial Personality Prototypes: Start coding basic personality modules for each AI agent, focusing on how their distinct traits influence conversational flow.
+Integrate the System Components: Work on connecting the conversational logic with external inputs to enhance interactivity.
+Refine the User Interaction: Explore how users might interact with or observe the agents, ensuring that the experience is playful, engaging, and thought-provoking.
+Research Similar Projects: Investigate recent advancements in conversational AI and multi-agent systems to draw inspiration and ensure innovation.
+
+
+### Bonus: Relevant News/Industry Item
+
+A relevant trend I found is the increasing focus on embodied AI and digital companions, such as Replika and Character.ai. These platforms emphasize creating emotionally engaging interactions, which resonates with my project’s goal of adding personality to everyday objects. There is an article from TechCrunch discusses advancements in conversational AI.This development underscores the potential impact of creating unique, interactive AI systems in both personal and professional contexts.
+
+<img width="800" src="assets/p2_gpt.png"><br/><br/>
+<img width="800" src="assets/p3_gpt.png"><br/><br/>
+
+
 # Week 10 Project Three Mini Me #
 ## Week of 11/07/2024
 Reflections
