@@ -26,8 +26,8 @@ Next steps involve refining the agents’ conversational flow by improving promp
 A relevant advancement is OpenAI’s custom GPTs, which use contextual memory to maintain conversation relevance and flow. This approach enables smoother transitions and more coherent responses, directly addressing the challenges in our project. Implementing similar techniques, such as short-term memory or topic tagging, could significantly improve our agents’ dialogue quality while enhancing user engagement.  
 
 
-<img width="800" src="momo_system_2.png"><br/><br/>
-<img width="800" src="momo_2.png"><br/><br/>
+<img width="800" src="assets/momo_system_2.png"><br/><br/>
+<img width="800" src="assets/momo_2.png"><br/><br/>
 
 # Week 11 Final Project Preparation #
 ## Week of 11/14/2024
