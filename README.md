@@ -26,8 +26,8 @@ Next steps involve refining the agents’ conversational flow by improving promp
 A relevant advancement is OpenAI’s custom GPTs, which use contextual memory to maintain conversation relevance and flow. This approach enables smoother transitions and more coherent responses, directly addressing the challenges in our project. Implementing similar techniques, such as short-term memory or topic tagging, could significantly improve our agents’ dialogue quality while enhancing user engagement.  
 
 
-<img width="800" src="assets/p2_gpt.png"><br/><br/>
-<img width="800" src="assets/p3_gpt.png"><br/><br/>
+<img width="800" src="momo_system_2.png"><br/><br/>
+<img width="800" src="momo_2.png"><br/><br/>
 
 # Week 11 Final Project Preparation #
 ## Week of 11/14/2024
@@ -55,8 +55,8 @@ Research Similar Projects: Investigate recent advancements in conversational AI 
 
 A relevant trend I found is the increasing focus on embodied AI and digital companions, such as Replika and Character.ai. These platforms emphasize creating emotionally engaging interactions, which resonates with my project’s goal of adding personality to everyday objects. There is an article from TechCrunch discusses advancements in conversational AI.This development underscores the potential impact of creating unique, interactive AI systems in both personal and professional contexts.
 
-<img width="800" src="assets/p2_gpt.png"><br/><br/>
-<img width="800" src="assets/p3_gpt.png"><br/><br/>
+<img width="800" src="assets/momo_system_1.png"><br/><br/>
+<img width="800" src="assets/momo_1.png"><br/><br/>
 
 
 # Week 10 Project Three Mini Me #
